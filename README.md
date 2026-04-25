@@ -1,60 +1,109 @@
-# 🧪 Computer Programming (C++) Lab Task
+# 💻 Computer Programming (C++) Lab Tasks
 
-## 🎯 Objective
+## 👋 Introduction
 
-Write a program to ____________________________________________.
-
-*(Example: Write a program to check whether a number is even or odd.)*
-
----
-
-## 📖 Theory
-
-Explain the concept used in this lab.
-
-*(Example:)*
-In this lab, we use **conditional statements (if-else)** to make decisions in a program. These statements allow the program to execute different blocks of code based on a condition.
+Hello! I am **Muhammad Hasnain**, a Computer Science student.
+This repository contains all my **lab tasks for the course "Computer Programming"**, implemented in C++. It includes problem-solving exercises, concepts, and practical work completed during lab sessions.
 
 ---
 
-## ⚙️ Algorithm / Steps
+## 📌 Purpose of Repository
 
-1. Start the program
-2. Declare required variables
-3. Take input from the user
-4. Apply logic / condition
-5. Display the result
-6. End the program
+* To organize all C++ lab tasks in one place
+* To practice and improve programming skills
+* To document logic, code, and outputs clearly
+* To track my learning progress throughout the course
 
 ---
 
-## 💻 C++ Code
+## 🎯 Objectives
 
-```id="generalcpp"
-#include <iostream>
-using namespace std;
+* Understand fundamental programming concepts
+* Apply logic to solve computational problems
+* Write clean, efficient, and structured C++ code
+* Gain hands-on experience through lab exercises
+* Build a strong foundation in programming
 
-int main() {
-    // Write your code here
-    
-    return 0;
-}
+---
+
+## 🧠 Topics Covered
+
+* Introduction to C++
+* Input / Output Operations
+* Decision Making (if-else, switch)
+* Loops (for, while, do-while)
+* Functions
+* Arrays & Strings
+* Pointers
+* Object-Oriented Programming (OOP)
+* File Handling
+
+---
+
+## 📂 Repository Structure
+
+```id="struc01"
+Computer-Programming-Lab-Tasks/
+│
+├── Lab-01/
+├── Lab-02/
+├── Lab-03/
+├── Lab-04/
+├── Lab-05/
+├── Lab-06/
+├── Lab-07/
+├── Lab-08/
+├── Lab-09/
+├── Lab-10/
+└── README.md
 ```
 
 ---
 
-## 📊 Output
+## 📄 Lab Task Format
 
-```id="outputbox"
-[Write your program output here]
+Each lab folder contains:
+
+* 🎯 Objective
+* 📖 Theory
+* ⚙️ Algorithm / Steps
+* 💻 C++ Code
+* 📊 Output
+* ✅ Conclusion
+
+---
+
+## 🚀 How to Run the Code
+
+1. Open terminal or command prompt
+2. Compile the program:
+
+```id="run01"
+g++ file.cpp -o program
+```
+
+3. Run the program:
+
+```id="run02"
+./program
 ```
 
 ---
 
-## ✅ Conclusion
+## 📈 Progress
 
-In this lab task, I learned ____________________________________________.
+This repository is regularly updated as I complete new lab tasks throughout the semester.
 
-*(Example: how to use if-else statements to make decisions in C++.)*
+---
+
+## 🤝 Contributions
+
+This is an academic repository, but suggestions and improvements are welcome.
+
+---
+
+## ⭐ Note
+
+This repository reflects my learning journey in **Computer Programming using C++**.
 
 ---
